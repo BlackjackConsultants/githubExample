@@ -9,6 +9,9 @@ In this sample there are 5 commits.
 ## Example
 
 1. do a revert to commit 3
+```
+git revert HEAD~5..HEAD
+```
 1. this get you to 3 files and each should say commit 3.
 1. do a reset to delete commit five which stores the restore commit.
 
