@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51DDF284-5D7D-4471-B283-FE31721D379C}"
 	ProjectSection(SolutionItems) = preProject
 		commit 1.txt = commit 1.txt
+		commit 2.txt = commit 2.txt
 		image\commits.png = image\commits.png
 		readme.md = readme.md
 	EndProjectSection
