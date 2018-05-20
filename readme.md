@@ -1,6 +1,6 @@
 # Git Reverts
 
-Git revert or rollbacks are done with two statements: **revert** and **reset**. I recommend using the revert because reset will remove items from the history.  In this sample i will show how to do both.  
+Git revert or rollbacks are performed with two statements: **revert** and **reset**. I recommend using the former because the reset command will remove items from the history.  In this example however i will show you how to do both.  
 
 In this sample there are 5 commits.  
 
